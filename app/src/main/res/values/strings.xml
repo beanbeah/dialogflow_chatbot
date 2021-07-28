@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dialogflow_chatbot</string>
+    <string name="welcome_message">Hello</string>
+    <string name="cute_phrog">cute phrog</string>
+</resources>

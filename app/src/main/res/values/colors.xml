@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BEE3DB</color>
+    <color name="colorPrimaryDark">#FAF9F9</color>
+    <color name="colorAccent">#555B6E</color>
+    <color name="colorBack">#FFD6BA</color>
+    <color name="colorText">#555B6E</color>
+    <color name="colorLoading">#555B6E</color>
+    <color name="colorProgress">#89B0AE</color>
+    <color name="colorShapeSolid">#555B6E</color>
+    <color name="colorMessageBox">#BEE3DB</color>
+</resources>
