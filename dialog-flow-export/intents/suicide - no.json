@@ -1,0 +1,44 @@
+{
+  "id": "c10bf427-9026-4c2d-bf16-07ee688756dd",
+  "parentId": "fecc4aa8-e565-4cb5-9583-3b2d88791aa7",
+  "rootParentId": "fecc4aa8-e565-4cb5-9583-3b2d88791aa7",
+  "name": "suicide - no",
+  "auto": true,
+  "contexts": [
+    "suicide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "suicide.suicide-no",
+      "affectedContexts": [
+        {
+          "name": "suicide-no-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No Problem, I\u0027ll still be here for you to talk to or rant."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

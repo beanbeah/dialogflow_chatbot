@@ -1,0 +1,223 @@
+[
+  {
+    "id": "b64836cb-6cc8-4014-aac6-7d2eb0ec2958",
+    "data": [
+      {
+        "text": "I would like to set an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "3 PM",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cd1db51-bada-4102-86ff-c4882490a558",
+    "data": [
+      {
+        "text": "Need an appointment for ",
+        "userDefined": false
+      },
+      {
+        "text": "4 PM",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f78952c-c887-415d-8753-b9644a10d4d6",
+    "data": [
+      {
+        "text": "Set an appointment on ",
+        "userDefined": false
+      },
+      {
+        "text": "Wednesday",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      },
+      {
+        "text": " at ",
+        "userDefined": false
+      },
+      {
+        "text": "2 PM",
+        "meta": "@sys.time",
+        "alias": "time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "618f9db2-6552-4b27-9c06-3e3fe9200613",
+    "data": [
+      {
+        "text": "I want to book a counselling session",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cddc0853-0032-4611-96e1-ba0652a19ed7",
+    "data": [
+      {
+        "text": "I want to book an appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9408afd-d3df-4aff-8b6b-f1f248d194aa",
+    "data": [
+      {
+        "text": "I want to speak to a therapist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8d554b6-6a06-4a87-b93f-d06523a4765d",
+    "data": [
+      {
+        "text": "I want to go for therapy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd96471e-5967-4bf6-bd14-b5c4009ee9f3",
+    "data": [
+      {
+        "text": "I want to talk to a counsellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8d4e380-3eba-4393-9e18-2c72bf1d3e84",
+    "data": [
+      {
+        "text": "I want to get help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9c5eaea-be3b-46f0-87fb-30279b0242f3",
+    "data": [
+      {
+        "text": "I want to seek help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdcef58c-e9b8-4e73-8e2d-540b9e419c79",
+    "data": [
+      {
+        "text": "I would like to speak to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b5d28ea-5ddd-4fef-8920-69c0fe6f498b",
+    "data": [
+      {
+        "text": "I would like to speak to a counsellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0aabac2-08e5-439d-a636-a6c5c943e9be",
+    "data": [
+      {
+        "text": "I would like to get help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

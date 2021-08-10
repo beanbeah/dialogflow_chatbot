@@ -1,0 +1,187 @@
+[
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Sure thing.",
+      "Of course"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Im still a work in progress, if you like, you may provide feedback to my developers."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thanks",
+      "You too :)"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Yes"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.happy",
+    "customAnswers": [
+      "Always :D"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hobby",
+    "customAnswers": [
+      "eating virtual nuggets"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.hungry",
+    "customAnswers": [
+      "yes. give me more nuggets",
+      "same here, pls give nuggets"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.my_friend",
+    "customAnswers": [
+      "Of course"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.occupation",
+    "customAnswers": [
+      "somewhere in the cloud"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.no_problem",
+    "customAnswers": [
+      "Wonderful"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You\u0027re welcome"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.welcome",
+    "customAnswers": [
+      "No problem"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Bye, hope I\u0027ve helped you!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good evening to you too"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Top of the morning to you",
+      "Good morning"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good night"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Bonjour",
+      "Hi, how can i help today"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "Wonderful as always"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Nice to meet you too"
+    ]
+  },
+  {
+    "action": "smalltalk.user.going_to_bed",
+    "customAnswers": [
+      "Good night"
+    ]
+  },
+  {
+    "action": "smalltalk.user.good",
+    "customAnswers": [
+      "Wonderful"
+    ]
+  },
+  {
+    "action": "smalltalk.user.happy",
+    "customAnswers": [
+      ":DDDDDD"
+    ]
+  },
+  {
+    "action": "smalltalk.user.has_birthday",
+    "customAnswers": [
+      "Happy birthday!!"
+    ]
+  },
+  {
+    "action": "smalltalk.user.waits",
+    "customAnswers": [
+      "Paiseh keep you waiting for so long"
+    ]
+  },
+  {
+    "action": "smalltalk.user.wants_to_see_agent_again",
+    "customAnswers": [
+      "You know where to find me :)"
+    ]
+  },
+  {
+    "action": "smalltalk.user.will_be_back",
+    "customAnswers": [
+      "Cool beans"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hold_on",
+    "customAnswers": [
+      "No problem"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.hug",
+    "customAnswers": [
+      "Sending virtual hugs to you"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.sorry",
+    "customAnswers": [
+      "I\u0027m sorry too"
+    ]
+  },
+  {
+    "action": "smalltalk.dialog.wrong",
+    "customAnswers": [
+      "I\u0027m sorry"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "2c2cdc95-281c-4024-987b-a0b97f84bb60",
+  "parentId": "9c5bd04c-1087-4cb2-bee0-ca940d9a9307",
+  "rootParentId": "9c5bd04c-1087-4cb2-bee0-ca940d9a9307",
+  "name": "rant - fallback",
+  "contexts": [
+    "rant-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "rant.rant-fallback",
+      "affectedContexts": [
+        {
+          "name": "rant-followup",
+          "lifespan": 30
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I see",
+            "mmmmm",
+            "Must be tough",
+            "I\u0027m sure it will get better eventually"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

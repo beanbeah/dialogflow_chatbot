@@ -1,0 +1,2316 @@
+[
+  {
+    "id": "dd061911-f155-4626-9617-455aa84515d5",
+    "data": [
+      {
+        "text": "⌚",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7af7bcfb-c866-4297-9070-564b5bc64521",
+    "data": [
+      {
+        "text": "📱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14ac7409-0925-4157-b4c4-55dd12055d63",
+    "data": [
+      {
+        "text": "📲",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfb7c9c0-5463-4836-bebd-fe8d0fc8f65b",
+    "data": [
+      {
+        "text": "💻",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0a34637-213b-4873-9ab0-ec8f5d753a13",
+    "data": [
+      {
+        "text": "⌨",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1789e633-9305-4b0e-b64b-1e4488d883a1",
+    "data": [
+      {
+        "text": "🖥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9dd5a53-552d-44cb-b8b5-e798026a8211",
+    "data": [
+      {
+        "text": "🖨",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3c09f76-7e25-4755-87fb-d2b9d4e4ac57",
+    "data": [
+      {
+        "text": "🖱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f6638d4-fba6-4463-b8df-2c56d6ee37c2",
+    "data": [
+      {
+        "text": "🖲",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4c78ce7-b05d-4cad-aac0-1266dd34b503",
+    "data": [
+      {
+        "text": "🕹",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2fdb095-0180-44e6-ad34-6a41b4af2e06",
+    "data": [
+      {
+        "text": "🗜",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37a88f2b-c588-4d4e-8020-4c80bab64d42",
+    "data": [
+      {
+        "text": "💽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67707670-8aff-4db1-97a0-efdfe0a1bdd4",
+    "data": [
+      {
+        "text": "💾",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4f5d6fa-b803-4a6d-aa46-c495c2a7561b",
+    "data": [
+      {
+        "text": "💿",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0249df7e-9382-4cac-b86e-712014abfbd9",
+    "data": [
+      {
+        "text": "📀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49d4eb51-66ae-4584-bf29-0609f7436cf1",
+    "data": [
+      {
+        "text": "📼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec3bcabc-76c2-44c6-8337-17eac97be2c6",
+    "data": [
+      {
+        "text": "📷",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3f44749-14ae-4a91-b86d-f6031a564e05",
+    "data": [
+      {
+        "text": "📸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daf96529-ccfe-4e8b-bbe1-6d115e142b90",
+    "data": [
+      {
+        "text": "📹",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45e53c6a-846c-4783-bde8-824dd5c21ee3",
+    "data": [
+      {
+        "text": "🎥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0a47f67-312b-4512-a8f1-046a61bb945a",
+    "data": [
+      {
+        "text": "📽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "049af0a3-741e-4aec-938d-c160b30d335c",
+    "data": [
+      {
+        "text": "🎞",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b68b76f9-95a1-4fb3-8e34-4967e53b46de",
+    "data": [
+      {
+        "text": "📞",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c109e8a-ec91-447b-be6a-dd3137fd5ea8",
+    "data": [
+      {
+        "text": "☎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d266c030-0c67-4b96-aeb9-816a7f89d63a",
+    "data": [
+      {
+        "text": "📟",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2fa34416-3e73-4e01-a7f1-34e9d6fa9c3c",
+    "data": [
+      {
+        "text": "📠",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fb921a67-f462-4bc8-b6e9-0b955b804954",
+    "data": [
+      {
+        "text": "📺",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1929ae97-3e9e-43cd-b1e9-241fddd34cb6",
+    "data": [
+      {
+        "text": "📻",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72b8d6f8-40d8-4fcc-9bb4-b894baee531f",
+    "data": [
+      {
+        "text": "🎙",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aba31aac-a892-4241-a44b-961eb9cb1913",
+    "data": [
+      {
+        "text": "🎚",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea64c49b-0c8e-45cd-bec2-4b856bc34976",
+    "data": [
+      {
+        "text": "🎛",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63acb27e-00c4-4785-8034-2b6072c9571e",
+    "data": [
+      {
+        "text": "⏱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "169ceeea-2492-488b-8baa-e5b2854c1172",
+    "data": [
+      {
+        "text": "⏲",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebecedbc-b38f-487e-bc7a-e6469807c809",
+    "data": [
+      {
+        "text": "⏰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef1a9b1c-add6-4716-99d3-1ef14a49db31",
+    "data": [
+      {
+        "text": "🕰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b2de8cc-03b5-450c-8afd-b0dee7f5d07b",
+    "data": [
+      {
+        "text": "⏳",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1a0058d-ea8b-4be1-adf0-d0c1d58d7a23",
+    "data": [
+      {
+        "text": "⌛",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "837c45a5-4a30-4331-ae3c-da8949e76d0e",
+    "data": [
+      {
+        "text": "📡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd948ae2-6e77-4ceb-8fe8-713ac43c519d",
+    "data": [
+      {
+        "text": "🔋",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d019d97a-de2f-4ef8-aaf5-472735a85611",
+    "data": [
+      {
+        "text": "🔌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f61d4b28-99fb-4070-8743-0a324ceafa4c",
+    "data": [
+      {
+        "text": "💡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8666de32-6748-447a-af52-ea6dbf9ba758",
+    "data": [
+      {
+        "text": "🔦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecda958e-d94e-49ca-b5fe-63363d794089",
+    "data": [
+      {
+        "text": "🕯",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d221d9f8-b85a-493f-9ef4-a476ce83b222",
+    "data": [
+      {
+        "text": "🗑",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3f07dcc-a854-48e2-9785-d8771642291c",
+    "data": [
+      {
+        "text": "🛢",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df6d09e1-a287-4a0e-8889-1c3379f71c00",
+    "data": [
+      {
+        "text": "💸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0be10f74-03e8-4c3c-b3e5-e24763c34708",
+    "data": [
+      {
+        "text": "💵",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79da9173-f49e-4fb0-81db-d2826cd5ea08",
+    "data": [
+      {
+        "text": "💴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77c9ab9c-b201-4d2d-9a02-7844fe8212a6",
+    "data": [
+      {
+        "text": "💶",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3593738d-d2df-46ae-91fa-7a2e28c8e8cb",
+    "data": [
+      {
+        "text": "💷",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "082e18d1-57d5-4e5a-b7c6-90f58993cfe3",
+    "data": [
+      {
+        "text": "💰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "686e600c-d4eb-47a9-9891-86f313f72203",
+    "data": [
+      {
+        "text": "💳",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f66b383-7982-49a3-936d-aa31baeaa2bc",
+    "data": [
+      {
+        "text": "💎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d452ac1e-4ef7-4389-879b-1d968ad0d814",
+    "data": [
+      {
+        "text": "⚖",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c82c7cb0-2ae2-4aa4-91ce-e1899a19e421",
+    "data": [
+      {
+        "text": "🔧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "babc9ffe-2b6a-4f21-ba37-25259cfaeb7f",
+    "data": [
+      {
+        "text": "🔨",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a292c82a-a3b4-45bb-9857-821f4d2773c0",
+    "data": [
+      {
+        "text": "⚒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c46d94f-bff8-4d86-a919-70f51210d9d7",
+    "data": [
+      {
+        "text": "🛠",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "273835ca-b55f-40b6-8f30-183fd9d6e6a1",
+    "data": [
+      {
+        "text": "⛏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbbbe896-e443-44c6-9528-dfada522299b",
+    "data": [
+      {
+        "text": "🔩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d489d1d-53b1-4202-8d42-3fdbd95f381f",
+    "data": [
+      {
+        "text": "⚙",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "376571d9-b6c6-4bb0-af3c-3d1cecdcbe3d",
+    "data": [
+      {
+        "text": "⛓",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4de7ca7-a7c9-4b65-aeb0-6394d301a93c",
+    "data": [
+      {
+        "text": "🔫",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cb5f870-696f-4233-b533-910b3bb86c60",
+    "data": [
+      {
+        "text": "💣",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f08f98d8-e73f-4fb9-84b3-0e798b5752ea",
+    "data": [
+      {
+        "text": "🔪",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b004b58-2411-445d-af32-80548a741de0",
+    "data": [
+      {
+        "text": "🗡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a61921d-7a74-47db-b354-37eb17ca75a6",
+    "data": [
+      {
+        "text": "⚔",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ef66a3-4460-427e-a3fb-9f89206c5ca7",
+    "data": [
+      {
+        "text": "🛡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "312c0a32-93d4-4e75-b807-83bbf82de189",
+    "data": [
+      {
+        "text": "🚬",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8fd4762-a8e0-4343-b083-594a0b737850",
+    "data": [
+      {
+        "text": "☠",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbcc2c0e-0375-41b6-957f-49fcc1daaa4c",
+    "data": [
+      {
+        "text": "⚰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f910865-a351-4d9e-92c0-17708e909691",
+    "data": [
+      {
+        "text": "⚱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27862080-64bd-4a4b-be17-2e349147bfe1",
+    "data": [
+      {
+        "text": "🏺",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95dc3b4a-2ea8-4cf6-bc4c-5d2055ac6919",
+    "data": [
+      {
+        "text": "🔮",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93106c09-3a41-4aca-9e42-43a8ad386318",
+    "data": [
+      {
+        "text": "📿",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e230c1e3-5367-4e5d-84c4-08a1a3e87314",
+    "data": [
+      {
+        "text": "💈",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "975102d1-ea40-4748-ba98-4b29b308a5a6",
+    "data": [
+      {
+        "text": "⚗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb33984e-f898-4d83-816c-752ce3d74090",
+    "data": [
+      {
+        "text": "🔭",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "930b2769-f3c3-4ab1-9125-eccecc8dd790",
+    "data": [
+      {
+        "text": "🔬",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61c57737-6a19-4e32-a163-83b403d6234f",
+    "data": [
+      {
+        "text": "🕳",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad0ea3ed-1dad-42b4-b0ca-9c4a6667051c",
+    "data": [
+      {
+        "text": "💊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "113b6623-f1bb-4088-92c9-c6dcf916d28a",
+    "data": [
+      {
+        "text": "💉",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51a006f6-529b-4012-ae06-d9df4fc36d53",
+    "data": [
+      {
+        "text": "🌡",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24978cd4-84d1-44c3-b66a-e7175066058e",
+    "data": [
+      {
+        "text": "🏷",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8448a778-a42c-431c-9a10-c720367d0582",
+    "data": [
+      {
+        "text": "🔖",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be3c1483-acd9-4db8-a51e-9d072e6f9319",
+    "data": [
+      {
+        "text": "🚽",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbd85f93-19de-4d6d-a3e9-32a1c3704b61",
+    "data": [
+      {
+        "text": "🚿",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55c8e036-77c8-4a52-ba63-e66ac62f2ee6",
+    "data": [
+      {
+        "text": "🛁",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "242b05d8-ede5-4ca1-aabd-a36f13ef629f",
+    "data": [
+      {
+        "text": "🔑",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aea8daf-e5a8-4780-8b66-6b610f795e23",
+    "data": [
+      {
+        "text": "🗝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "838b9afa-2587-4615-83a0-74aadd373fef",
+    "data": [
+      {
+        "text": "🛋",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82735f55-b926-42be-891f-e8a419b80281",
+    "data": [
+      {
+        "text": "🛌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "271c0d77-526c-42f8-a099-9c66539557fd",
+    "data": [
+      {
+        "text": "🛏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "876afaf2-c009-4ffb-84f1-1cfde9e58564",
+    "data": [
+      {
+        "text": "🚪",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da7ab2e3-fb28-4a26-9164-f65b82fb88a6",
+    "data": [
+      {
+        "text": "🛎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ca72618-81cf-4aaf-8d70-500b186ee03f",
+    "data": [
+      {
+        "text": "🖼",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8161b747-146a-4e99-aa63-4b170e7eaab0",
+    "data": [
+      {
+        "text": "🗺",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "852e4f3b-995c-4137-b787-44f2477a879c",
+    "data": [
+      {
+        "text": "⛱",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26a8c96a-5b95-4222-bf9f-322eb0d61979",
+    "data": [
+      {
+        "text": "🗿",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f7e497f-6365-49eb-ab00-017c5e1277d0",
+    "data": [
+      {
+        "text": "🛍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33a31b79-1eb1-4ec9-a5a2-1c7da4876a46",
+    "data": [
+      {
+        "text": "🎈",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f5e2fe43-e8a7-4208-97ae-9c7e122a1c9d",
+    "data": [
+      {
+        "text": "🎏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e8a60c-d5dd-4c97-bf4f-bf4841ade567",
+    "data": [
+      {
+        "text": "🎀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "563be42b-d1e1-4291-bc36-cd9a2574d618",
+    "data": [
+      {
+        "text": "🎁",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0f5a05a-5abd-4fb2-bc4a-5c0c70086c17",
+    "data": [
+      {
+        "text": "🎊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c32276a3-b5b9-44be-8b55-d43edd9c8f59",
+    "data": [
+      {
+        "text": "🎉",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5fc45c5-c9bc-46df-a787-9ef8fceed6ed",
+    "data": [
+      {
+        "text": "🎎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "278dcf64-ffec-4969-9c51-2ae125acdf40",
+    "data": [
+      {
+        "text": "🎐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88463564-ba5b-4694-9178-2e9ada387048",
+    "data": [
+      {
+        "text": "🎌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "121e6c69-be07-4fd1-b65f-76d8c4b28d2e",
+    "data": [
+      {
+        "text": "🏮",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2093cab-97c1-47f1-b22c-5ab1dac7492a",
+    "data": [
+      {
+        "text": "✉",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6a2e43a-ed5a-4a36-8937-36685a22ca4f",
+    "data": [
+      {
+        "text": "📩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcb75720-09bf-4d40-847d-47cb637b3739",
+    "data": [
+      {
+        "text": "📨",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b2f4fe0-0986-430c-847c-397794bf87cd",
+    "data": [
+      {
+        "text": "📧",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6d538666-c6ce-478f-8f5a-fef50a270549",
+    "data": [
+      {
+        "text": "💌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "752d429b-2123-45d5-9e28-7ebd5c56f66e",
+    "data": [
+      {
+        "text": "📮",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1406a493-cc05-48f8-a8b0-f53ccf91b04a",
+    "data": [
+      {
+        "text": "📪",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9b03b5a-5217-47bd-a325-85580f378c8f",
+    "data": [
+      {
+        "text": "📫",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44644729-5b78-4b22-8d06-e12c12aeb537",
+    "data": [
+      {
+        "text": "📬",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c434f881-8b15-4fac-b88b-2b9aaf682ee6",
+    "data": [
+      {
+        "text": "📭",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "72be6a7b-9c13-46d5-b602-78ba7c10a486",
+    "data": [
+      {
+        "text": "📦",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "777bc3e5-2350-4f06-8369-9e9b75285d13",
+    "data": [
+      {
+        "text": "📯",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e20ec0c1-e2e5-4903-8e4f-0903c0ca693a",
+    "data": [
+      {
+        "text": "📥",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1e5cc7b-6748-4fb6-9f35-6002882d1d88",
+    "data": [
+      {
+        "text": "📤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87f443a6-311f-49c9-9f69-1bcab5cbfdc0",
+    "data": [
+      {
+        "text": "📜",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2df320c2-2e66-47c6-8360-843e4c0872f7",
+    "data": [
+      {
+        "text": "📃",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "135c93eb-8956-4abf-8838-8156c0ecbfdd",
+    "data": [
+      {
+        "text": "📑",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb689b04-0c91-43c4-9785-c2797e1a0cb4",
+    "data": [
+      {
+        "text": "📊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0a15bd0-2b50-4edd-8b60-9070e47b6a65",
+    "data": [
+      {
+        "text": "📈",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50d2e2a2-eb5b-4ed8-8d4e-66c718151f7c",
+    "data": [
+      {
+        "text": "📉",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97a11bfa-d718-4bf6-855f-951d7e4ef77f",
+    "data": [
+      {
+        "text": "📄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ec87ca9-4759-44c2-886a-419b5e8cbb5a",
+    "data": [
+      {
+        "text": "📅",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32ae50be-3870-4108-9ad5-f2abadbbf3f2",
+    "data": [
+      {
+        "text": "📆",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d011a0b-3e6b-4650-9373-59ed2bb3dd05",
+    "data": [
+      {
+        "text": "🗓",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "556401b9-3925-4dc7-9882-0d7c85f367b4",
+    "data": [
+      {
+        "text": "📇",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70215e26-100c-4ec8-a75b-71ed5c14e79b",
+    "data": [
+      {
+        "text": "🗃",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5d447e4-9b59-4779-955d-47af047368d0",
+    "data": [
+      {
+        "text": "🗳",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d796330-cb50-4b42-9c3a-f2cd8df8e0d6",
+    "data": [
+      {
+        "text": "🗄",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7286992d-231d-4089-a29f-333ee5d3159c",
+    "data": [
+      {
+        "text": "📋",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20e4dcf3-31ea-416e-8dcd-de9fa7be5a69",
+    "data": [
+      {
+        "text": "🗒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f32f2b4e-42f6-416a-8101-915fdc9e6e74",
+    "data": [
+      {
+        "text": "📁",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de6eab00-f887-49a3-adb7-5ea21489450a",
+    "data": [
+      {
+        "text": "📂",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7184e08a-0fe2-4251-93d3-b75bd56e2736",
+    "data": [
+      {
+        "text": "🗂",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ad072fc-2e2e-4c82-b808-1943fa97e7c8",
+    "data": [
+      {
+        "text": "🗞",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d75b60e8-413e-4f0d-9d41-fb799e961d1c",
+    "data": [
+      {
+        "text": "📰",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10871781-f283-49d8-be74-de2837c17f69",
+    "data": [
+      {
+        "text": "📓",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "902ece37-4fd1-4875-ab5f-eb56832b2912",
+    "data": [
+      {
+        "text": "📕",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "955af149-82f2-44dd-b85e-5bae06f84802",
+    "data": [
+      {
+        "text": "📗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaa75a0a-a938-4c68-a2d7-30903d20c47d",
+    "data": [
+      {
+        "text": "📘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91bb2d7a-f88a-4410-841d-8262ef042c23",
+    "data": [
+      {
+        "text": "📙",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93b89513-cd7e-474a-a00e-783db06cc015",
+    "data": [
+      {
+        "text": "📔",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9943ecac-f912-4de8-9ed0-66f2393430eb",
+    "data": [
+      {
+        "text": "📒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "471f2469-b866-4344-b8ad-f643de3077a7",
+    "data": [
+      {
+        "text": "📚",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9217702d-4107-46fe-bb58-27c548840eb0",
+    "data": [
+      {
+        "text": "📖",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dc1c8fd-366e-4f78-9260-0e6b137964d0",
+    "data": [
+      {
+        "text": "🔗",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ddabb46-fb39-4bfb-beb9-b6e350b7527f",
+    "data": [
+      {
+        "text": "📎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0bfe787-19d3-4579-93ab-31c8525b898c",
+    "data": [
+      {
+        "text": "🖇",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a79b915-83e1-4d74-926f-b4b0650c45a0",
+    "data": [
+      {
+        "text": "✂",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f11061c-8abf-4c62-8b46-56767a61ff3f",
+    "data": [
+      {
+        "text": "📐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "391b0590-60bd-4f3f-b189-355d4e51630b",
+    "data": [
+      {
+        "text": "📏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b4bfcf2-60e6-4bdd-8249-55e0a80a2d7c",
+    "data": [
+      {
+        "text": "📌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c24e4262-e22a-452d-9028-d2cfc9626e9a",
+    "data": [
+      {
+        "text": "📍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76a78a1e-3107-406f-867e-f3b5d16d2407",
+    "data": [
+      {
+        "text": "🚩",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd61a201-3eee-4ceb-95d2-18e11a5878d4",
+    "data": [
+      {
+        "text": "🏳",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4192f730-b480-43c4-a0de-eeaee5ee8285",
+    "data": [
+      {
+        "text": "🏴",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2524dc45-fdc3-410b-9505-e16f47b63427",
+    "data": [
+      {
+        "text": "🔐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ee22d865-f0f4-4864-8d83-489f3cb94404",
+    "data": [
+      {
+        "text": "🔒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e5a409d-b577-4ac4-a983-d5130a777b3f",
+    "data": [
+      {
+        "text": "🔓",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f8b0e720-41e4-4b61-942d-501f18421592",
+    "data": [
+      {
+        "text": "🔏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b30f92ba-57ac-45fc-9eef-cb0b2df95977",
+    "data": [
+      {
+        "text": "🖊",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76ad02da-a35b-4d1a-b593-2b91b327e674",
+    "data": [
+      {
+        "text": "🖋",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a3dfde9-4a24-4363-844a-ae1dd62ebdd2",
+    "data": [
+      {
+        "text": "✒",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5412ba52-3c57-4018-bdec-0762eef172dc",
+    "data": [
+      {
+        "text": "📝",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "853e9d36-1ae6-4582-a4c2-6c27b5c80193",
+    "data": [
+      {
+        "text": "✏",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6d91f4c-989e-43e9-92fc-3107b1cc8b9f",
+    "data": [
+      {
+        "text": "🖍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8837864-4c01-47d6-80dd-448c4cc61be1",
+    "data": [
+      {
+        "text": "🖌",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aaf6de74-3247-42e9-8579-5b1f63f2933f",
+    "data": [
+      {
+        "text": "🔍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1b776cb-90db-46ee-90d0-e6e57dd53d16",
+    "data": [
+      {
+        "text": "🔎",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

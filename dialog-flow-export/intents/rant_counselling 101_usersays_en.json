@@ -1,0 +1,140 @@
+[
+  {
+    "id": "671761cf-101c-4354-bb4e-f71bcfb93613",
+    "data": [
+      {
+        "text": "I\u0027m feeling depressed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a179feb-822f-40f8-8fa1-76a9c933e3c0",
+    "data": [
+      {
+        "text": "I want to talk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "deaa3e73-1ca1-4caf-ba51-f7e4962d1a7b",
+    "data": [
+      {
+        "text": "I\u0027m just so tired of life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ec14b39-9736-49ef-a09e-c3cb8ee4efa6",
+    "data": [
+      {
+        "text": "I want to rant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "03e08340-517a-48b2-80a3-b8301bbd380a",
+    "data": [
+      {
+        "text": "Can I talk?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a164f5d0-a834-423f-a7a2-8e67b08da66a",
+    "data": [
+      {
+        "text": "Can i just talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "is there any meaning to life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Im sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Im very sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "My dog died",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  }
+]

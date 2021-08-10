@@ -1,0 +1,39 @@
+{
+  "id": "09e6f029-32d1-4044-a991-92750f0ad39e",
+  "parentId": "fecc4aa8-e565-4cb5-9583-3b2d88791aa7",
+  "rootParentId": "fecc4aa8-e565-4cb5-9583-3b2d88791aa7",
+  "name": "suicide - yes",
+  "auto": true,
+  "contexts": [
+    "suicide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "suicide.suicide-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great. I\u0027ll help you setup an appointment right away. For now, could you help respond with \"book appointment \u003ctime\u003e \u003cday\u003e\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

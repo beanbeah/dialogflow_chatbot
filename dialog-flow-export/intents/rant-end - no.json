@@ -1,0 +1,39 @@
+{
+  "id": "f8db47cc-cbbc-4a28-90c1-f17c05155709",
+  "parentId": "ccaa3d35-f857-4dac-b3c5-e4c529173a22",
+  "rootParentId": "ccaa3d35-f857-4dac-b3c5-e4c529173a22",
+  "name": "rant-end - no",
+  "auto": true,
+  "contexts": [
+    "rant-end-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "rant-end.rant-end-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "No Problem, I\u0027ll still be here for you to talk to or rant."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

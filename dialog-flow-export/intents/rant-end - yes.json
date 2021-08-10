@@ -1,0 +1,39 @@
+{
+  "id": "2566000e-be6a-4ae1-94dd-23a74455b0b0",
+  "parentId": "ccaa3d35-f857-4dac-b3c5-e4c529173a22",
+  "rootParentId": "ccaa3d35-f857-4dac-b3c5-e4c529173a22",
+  "name": "rant-end - yes",
+  "auto": true,
+  "contexts": [
+    "rant-end-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "rant-end.rant-end-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great. I\u0027ll help you setup an appointment right away. For now, could you help respond with \"book appointment \u003ctime\u003e \u003cday\u003e\""
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

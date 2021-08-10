@@ -1,0 +1,46 @@
+{
+  "id": "6f51cc3d-314e-4e0b-bb38-d51e5565fd86",
+  "parentId": "c10bf427-9026-4c2d-bf16-07ee688756dd",
+  "rootParentId": "fecc4aa8-e565-4cb5-9583-3b2d88791aa7",
+  "name": "suicide - no - fallback",
+  "contexts": [
+    "suicide-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "suicide.suicide-no.suicide-no-fallback",
+      "affectedContexts": [
+        {
+          "name": "suicide-no-followup",
+          "lifespan": 30
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "mmmm",
+            "I see, I see",
+            "I\u0027m sure things will get better.",
+            "*pat pat*, it\u0027ll get better soon."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
