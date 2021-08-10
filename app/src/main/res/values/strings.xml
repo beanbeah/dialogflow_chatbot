@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">dialogflow_chatbot</string>
-    <string name="welcome_message">Hello</string>
+    <string name="app_name">Counselling Bot</string>
+    <string name="welcome_message">Hi there, send a message to begin this session</string>
     <string name="cute_phrog">cute phrog</string>
 </resources>

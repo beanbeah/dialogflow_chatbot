@@ -90,7 +90,6 @@ public class MainActivity extends AppCompatActivity {
     private void initChatbot() {
         try {
             InputStream stream = getResources().openRawResource(R.raw.key);
-            //lmfao stolen at the moment
             GoogleCredentials credentials = GoogleCredentials.fromStream(stream);
             String projectId = ((ServiceAccountCredentials)credentials).getProjectId();
 
@@ -102,6 +101,7 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+
 
     private void sendMessage(View view) {
         String msg = queryEditText.getText().toString();

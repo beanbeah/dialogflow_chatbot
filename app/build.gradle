@@ -43,7 +43,7 @@ dependencies {
 
     //dialogflow stuff
     implementation platform('com.google.cloud:libraries-bom:20.7.0')
-    compile 'com.google.cloud:google-cloud-dialogflow'
+    implementation 'com.google.cloud:google-cloud-dialogflow'
 
     implementation 'io.grpc:grpc-okhttp:1.29.0'
 
