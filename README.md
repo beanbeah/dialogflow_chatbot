@@ -1,3 +1,2 @@
 # dialogflow_chatbot
-
-Year 4 Comp Sci. Coursework/IA/Project. This is merely a nice frontend for a dialogflow bot running in the backend. 
+A simple Android application providing a frontend for a Dialogflow agent. This application was intended to function as a counselling chatbot and was done for my Year 4 Computer Science coursework. 
